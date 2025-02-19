@@ -1,4 +1,7 @@
 # Awesome-MLLM-Reasoning
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/lupantech/dl4math) 
+[![Survey](https://img.shields.io/badge/Survey-MLLM-Reasoning-blue)]([https://github.com/WillDreamer/Awesome-AI4CFD](https://github.com/WillDreamer/Awesome-MLLM-Reasoning)) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <!-- <img src="./images/main.png" width="96%" height="96%"> -->
 
