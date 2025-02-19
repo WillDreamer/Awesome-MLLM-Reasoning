@@ -26,6 +26,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|<br> [**EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges**](https://arxiv.org/abs/2502.08859) <br> | Arxiv 2025 | 2025-02 | - | -|
 |![Star](https://img.shields.io/github/stars/jonathan-roberts1/zerobench.svg?style=social&label=Star) <br> [**ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models**](https://arxiv.org/pdf/2502.09696) <br> | Arxiv 2025 | 2025-02 | [Github](https://github.com/jonathan-roberts1/zerobench) | [Dataset](https://huggingface.co/datasets/jonathan-roberts1/zerobench)|
 |![Star](https://img.shields.io/github/stars/CaraJ7/MME-CoT.svg?style=social&label=Star) <br> [**MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency**](https://arxiv.org/pdf/2502.09621) <br> | Arxiv 2025 | 2025-02 | [Github](https://github.com/CaraJ7/MME-CoT) | [Dataset](https://huggingface.co/datasets/CaraJ/MME-CoT)|
 |![Star](https://img.shields.io/github/stars/hychaochao/EMMA.svg?style=social&label=Star) <br> [**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**](https://arxiv.org/pdf/2412.12932v1.pdf) <br> | Arxiv 2025 | 2025-01 | [Github](https://github.com/hychaochao/EMMA) |
@@ -40,6 +41,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/MiZhenxing/ThinkDiff.svg?style=social&label=Star) <br> [**I Think, Therefore I Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models**](https://arxiv.org/abs/2502.10458) <br>  | Arxiv 2025 | 2025-02 | [Github](https://github.com/MiZhenxing/ThinkDiff) | [Project](https://mizhenxing.github.io/ThinkDiff) |
 |![Star](https://img.shields.io/github/stars/Pbhgit/MVCD.svg?style=social&label=Star) <br> [**Language Models Can See Better: Visual Contrastive Decoding For LLM Multimodal Reasoning**](https://arxiv.org/abs/2502.11751) <br>  | ICASSP 2025 | 2025-02 | [Github](https://github.com/Pbhgit/MVCD) | - |
 |![Star](https://img.shields.io/github/stars/aibee00/socraticquestioning.svg?style=social&label=Star) <br> [**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**](https://arxiv.org/pdf/2501.02964v2.pdf) <br>  | Arxiv 2025 | 2025-01 | [Github](https://github.com/aibee00/socraticquestioning) | - |
 |![Star](https://img.shields.io/github/stars/shawnricecake/heima.svg?style=social&label=Star) <br> [**Efficient Reasoning with Hidden Thinking**](https://arxiv.org/abs/2501.19201) <br>  | Arxiv 2025 | 2025-01 | [Github](https://github.com/shawnricecake/heima) | [Project](https://reasoning-grasping.github.io/) |
