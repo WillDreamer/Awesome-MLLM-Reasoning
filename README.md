@@ -7,7 +7,9 @@ Recent advancements in multi-modal large language models have achieved notable s
 
 In this survey, we provide a comprehensive overview of the progress made in multi-modal reasoning in the **recent two years (2024-2025)**, examining both the achievements and the limitations of current approaches. We further outline future research directions aimed at enhancing reasoning capabilities in complex, real-world tasks, including the development of improved model architectures, refined training methodologies, and more robust evaluation frameworks.
 
-<font size=6><center><b> Awesome-MLLM-Reasoning </b> </center></font>
+---
+
+<font size=8><center><b> Awesome-MLLM-Reasoning </b> </center></font>
 
 - [Awesome-MLLM-Reasoning](#awesome-mllm-reasoning)
   - [Recent Advances on MLLM's Reasoning Ability: A Survey](#recent-advances-on-mllms-reasoning-ability-a-survey)
@@ -24,8 +26,11 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/czhhzc/CoMT.svg?style=social&label=Star) <br> [**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**](https://arxiv.org/pdf/2412.12932v1.pdf) <br> | Arxiv 2025 | 2025-01 | [Github](https://github.com/czhhzc/CoMT) |
+|![Star](https://img.shields.io/github/stars/hychaochao/EMMA.svg?style=social&label=Star) <br> [**CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**](https://arxiv.org/pdf/2501.05444v1.pdf) <br> | AAAI 2025 | 2024-12 | [Github](https://github.com/hychaochao/EMMA) |
 |![Star](https://img.shields.io/github/stars/umd-huang-lab/Mementos.svg?style=social&label=Star) <br> [**Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences**](https://aclanthology.org/2024.acl-long.25.pdf) <br> | ACL 2024 | 2024-01 | [Github](https://github.com/umd-huang-lab/Mementos) |
-|![Star](https://img.shields.io/github/stars/hychaochao/EMMA.svg?style=social&label=Star) <br> [**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**](https://arxiv.org/pdf/2501.05444v1.pdf) <br> | Arxiv 2025 | 2025-01 | [Github](https://github.com/hychaochao/EMMA) |
+
+
 
 ---
 
