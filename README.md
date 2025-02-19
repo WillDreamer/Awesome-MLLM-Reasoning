@@ -40,6 +40,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/Pbhgit/MVCD.svg?style=social&label=Star) <br> [**Language Models Can See Better: Visual Contrastive Decoding For LLM Multimodal Reasoning**](https://arxiv.org/abs/2502.11751) <br>  | ICASSP 2025 | 2025-02 | [Github](https://github.com/Pbhgit/MVCD) | - |
 |![Star](https://img.shields.io/github/stars/aibee00/socraticquestioning.svg?style=social&label=Star) <br> [**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**](https://arxiv.org/pdf/2501.02964v2.pdf) <br>  | Arxiv 2025 | 2025-01 | [Github](https://github.com/aibee00/socraticquestioning) | - |
 |![Star](https://img.shields.io/github/stars/shawnricecake/heima.svg?style=social&label=Star) <br> [**Efficient Reasoning with Hidden Thinking**](https://arxiv.org/abs/2501.19201) <br>  | Arxiv 2025 | 2025-01 | [Github](https://github.com/shawnricecake/heima) | [Project](https://reasoning-grasping.github.io/) |
 |![Star](https://img.shields.io/github/stars/HJYao00/Mulberry.svg?style=social&label=Star) <br> [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**](https://arxiv.org/abs/2412.18319) <br>  | Arxiv 2024 | 2024-12 | [Github](https://github.com/HJYao00/Mulberry) | - |
@@ -47,6 +48,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 |![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**](https://arxiv.org/abs/2411.10442) <br>  | Arxiv 2024 | 2024-11 | [Github](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo) | [Project](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/) |
 |![Star](https://img.shields.io/github/stars/MaverickRen/PixelLM.svg?style=social&label=Star) <br> [**PixelLM: Pixel Reasoning with Large Multimodal Model**](https://arxiv.org/pdf/2312.02228.pdf) <br>  | CVPR 2024 | 2024-11 | [Github](https://github.com/MaverickRen/PixelLM) | [Project](https://pixellm.github.io/) |
 | <br> [**Reasoning Grasping via Multimodal Large Language Model**](https://openreview.net/forum?id=KPcX4jetMw) <br>  | CoRL 2024 | 2024-02 | - | [Project](https://reasoning-grasping.github.io/) |
+
 
 ---
 
@@ -56,6 +58,15 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/Darcyddx/Video-LLM.svg?style=social&label=Star) <br> [**Do Language Models Understand Time?**](https://arxiv.org/pdf/2412.13845v1.pdf) <br>  | WWW 2025 | 2024-12 | [Github](https://github.com/Darcyddx/Video-LLM) | - |
+
+---
+
+## MLLM for Scientific Tasks
+
+
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning**](https://arxiv.org/pdf/2502.02871) <br>  | Arxiv 2025 | 2025-02 | - | - |
 
 ---
 
