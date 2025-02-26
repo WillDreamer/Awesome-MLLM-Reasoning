@@ -29,6 +29,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|<br> [**All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark**](http://arxiv.org/abs/2502.16989) <br> | Arxiv 2025 | 2025-02 | - | -|
 |<br> [**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**](https://arxiv.org/abs/2502.14827) <br> | Arxiv 2025 | 2025-02 | - | -|
 |<br> [**EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges**](https://arxiv.org/abs/2502.08859) <br> | Arxiv 2025 | 2025-02 | - | -|
 |![Star](https://img.shields.io/github/stars/jonathan-roberts1/zerobench.svg?style=social&label=Star) <br> [**ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models**](https://arxiv.org/pdf/2502.09696) <br> | Arxiv 2025 | 2025-02 | [Github](https://github.com/jonathan-roberts1/zerobench) | [Dataset](https://huggingface.co/datasets/jonathan-roberts1/zerobench)|
