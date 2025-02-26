@@ -46,6 +46,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Shakti-VLMs: Scalable Vision-Language Models for Enterprise AIl**](https://arxiv.org/abs/2502.17092) <br>  | Arxiv 2025 | 2025-02 | - | - |
 |![Star](https://img.shields.io/github/stars/Aurora-slz/MM-Verify.svg?style=social&label=Star) <br> [**MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**](https://www.arxiv.org/abs/2502.13383) <br>  | Arxiv 2025 | 2025-02 | [Github](https://github.com/Aurora-slz/MM-Verify) | - |
 |![Star](https://img.shields.io/github/stars/MiZhenxing/ThinkDiff.svg?style=social&label=Star) <br> [**I Think, Therefore I Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models**](https://arxiv.org/abs/2502.10458) <br>  | Arxiv 2025 | 2025-02 | [Github](https://github.com/MiZhenxing/ThinkDiff) | [Project](https://mizhenxing.github.io/ThinkDiff) |
 |![Star](https://img.shields.io/github/stars/Pbhgit/MVCD.svg?style=social&label=Star) <br> [**Language Models Can See Better: Visual Contrastive Decoding For LLM Multimodal Reasoning**](https://arxiv.org/abs/2502.11751) <br>  | ICASSP 2025 | 2025-02 | [Github](https://github.com/Pbhgit/MVCD) | - |
