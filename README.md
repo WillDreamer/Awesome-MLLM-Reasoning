@@ -67,6 +67,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/Darcyddx/Video-LLM.svg?style=social&label=Star) <br> [**Towards Multimodal Large-Language Models for Parent-Child Interaction: A Focus on Joint Attention**](https://arxiv.org/abs/2502.19877) <br>  | CHI'25 LBW | 2025-03 | - | - |
 |![Star](https://img.shields.io/github/stars/Darcyddx/Video-LLM.svg?style=social&label=Star) <br> [**Do Language Models Understand Time?**](https://arxiv.org/pdf/2412.13845v1.pdf) <br>  | WWW 2025 | 2024-12 | [Github](https://github.com/Darcyddx/Video-LLM) | - |
 
 ---
