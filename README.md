@@ -46,6 +46,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation**](https://www.arxiv.org/abs/2503.01298) <br>  | Arxiv 2025 | 2025-03 | - | - |
 | <br> [**Shakti-VLMs: Scalable Vision-Language Models for Enterprise AIl**](https://arxiv.org/abs/2502.17092) <br>  | Arxiv 2025 | 2025-02 | - | - |
 |![Star](https://img.shields.io/github/stars/Aurora-slz/MM-Verify.svg?style=social&label=Star) <br> [**MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**](https://www.arxiv.org/abs/2502.13383) <br>  | Arxiv 2025 | 2025-02 | [Github](https://github.com/Aurora-slz/MM-Verify) | - |
 |![Star](https://img.shields.io/github/stars/MiZhenxing/ThinkDiff.svg?style=social&label=Star) <br> [**I Think, Therefore I Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models**](https://arxiv.org/abs/2502.10458) <br>  | Arxiv 2025 | 2025-02 | [Github](https://github.com/MiZhenxing/ThinkDiff) | [Project](https://mizhenxing.github.io/ThinkDiff) |
@@ -71,6 +72,16 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 |![Star](https://img.shields.io/github/stars/Darcyddx/Video-LLM.svg?style=social&label=Star) <br> [**Do Language Models Understand Time?**](https://arxiv.org/pdf/2412.13845v1.pdf) <br>  | WWW 2025 | 2024-12 | [Github](https://github.com/Darcyddx/Video-LLM) | - |
 
 ---
+
+## MLLM for Audio Tasks
+
+
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/xzf-thu/Audio-Reasoner.svg?style=social&label=Star) <br> [**Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models**](http://arxiv.org/abs/2503.02318) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/xzf-thu/Audio-Reasoner) | [Demo](https://github.com/xzf-thu/Audio-Reasoner?tab=readme-ov-file#demo) |
+
+---
+
 
 ## MLLM for Scientific Tasks
 
