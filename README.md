@@ -19,6 +19,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
   - [Existing Benchmarks](#existing-benchmarks)
   - [MLLM for Image Tasks](#mllm-for-image-tasks)
   - [MLLM for Video Tasks](#mllm-for-video-tasks)
+  - [MLLM for Audio Tasks](#mllm-for-audio-tasks)
   - [Contributing](#contributing)
 
 
@@ -29,6 +30,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|<br> [**COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence**](https://arxiv.org/pdf/2503.03215) <br> | Arxiv 2025 | 2025-03 | - | - |
 |<br> [**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**](https://arxiv.org/pdf/2503.01378) <br> | Arxiv 2025 | 2025-03 | - | [Datasets](https://huggingface.co/datasets/ArtemLykov/CognitiveDrone_dataset)|
 |<br> [**All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark**](http://arxiv.org/abs/2502.16989) <br> | Arxiv 2025 | 2025-02 | - | -|
 |<br> [**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**](https://arxiv.org/abs/2502.14827) <br> | Arxiv 2025 | 2025-02 | - | -|
