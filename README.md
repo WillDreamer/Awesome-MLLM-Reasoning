@@ -81,6 +81,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/AIM-SKKU/QA-TIGERr.svg?style=social&label=Star) <br> [**Question-Aware Gaussian Experts for Audio-Visual Question Answering**](http://arxiv.org/abs/2503.04459) <br>  | CVPR 2025 | 2025-03 | [Github](https://github.com/AIM-SKKU/QA-TIGER) | [Demo](https://aim-skku.github.io/QA-TIGER/) |
 |![Star](https://img.shields.io/github/stars/xzf-thu/Audio-Reasoner.svg?style=social&label=Star) <br> [**Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models**](http://arxiv.org/abs/2503.02318) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/xzf-thu/Audio-Reasoner) | [Demo](https://github.com/xzf-thu/Audio-Reasoner?tab=readme-ov-file#demo) |
 
 ---
