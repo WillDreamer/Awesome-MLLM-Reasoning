@@ -49,6 +49,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star) <br> [**MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**](https://github.com/ModalMinds/MM-EUREKA?tab=readme-ov-file) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/ModalMinds/MM-EUREKA) | [Datasets](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset) |
 | <br> [**MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation**](https://www.arxiv.org/abs/2503.01298) <br>  | Arxiv 2025 | 2025-03 | - | - |
 | <br> [**Shakti-VLMs: Scalable Vision-Language Models for Enterprise AIl**](https://arxiv.org/abs/2502.17092) <br>  | Arxiv 2025 | 2025-02 | - | - |
 |![Star](https://img.shields.io/github/stars/Aurora-slz/MM-Verify.svg?style=social&label=Star) <br> [**MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**](https://www.arxiv.org/abs/2502.13383) <br>  | Arxiv 2025 | 2025-02 | [Github](https://github.com/Aurora-slz/MM-Verify) | - |
