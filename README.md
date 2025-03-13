@@ -49,7 +49,6 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-
 |![Star](https://img.shields.io/github/stars/kyrieLei/Critic-V.svg?style=social&label=Star) <br> [**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**](https://arxiv.org/pdf/2411.18203) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/kyrieLei/Critic-V) | [Dataset](https://huggingface.co/papers/2411.18203) |
 |![Star](https://img.shields.io/github/stars/Osilly/Vision-R1.svg?style=social&label=Star) <br> [**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**](https://arxiv.org/abs/2503.06749) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/Osilly/Vision-R1) | - |
 |![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star) <br> [**MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**](https://github.com/ModalMinds/MM-EUREKA?tab=readme-ov-file) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/ModalMinds/MM-EUREKA) | [Datasets](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset) |
