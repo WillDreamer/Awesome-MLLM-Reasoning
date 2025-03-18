@@ -50,6 +50,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|![Star](https://img.shields.io/github/stars/jingyi0000/R1-VL.svg?style=social&label=Star) <br> [**R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimizatio**](https://arxiv.org/abs/2503.12937) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/jingyi0000/R1-VL) | - |
 |![Star](https://img.shields.io/github/stars/Fancy-MLLM/R1-onevision.svg?style=social&label=Star) <br> [**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**](https://arxiv.org/pdf/2503.10615) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/Fancy-MLLM/R1-onevision) | [Dataset](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision) |
 | <br> [**VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**](https://arxiv.org/pdf/2503.10291) <br>  | Arxiv 2025 | 2025-03 | [Project](https://internvl.github.io/blog/2025-03-13-VisualPRM/) | [Dataset](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K) |
 |![Star](https://img.shields.io/github/stars/kyrieLei/Critic-V.svg?style=social&label=Star) <br> [**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**](https://arxiv.org/pdf/2411.18203) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/kyrieLei/Critic-V) | [Dataset](https://huggingface.co/papers/2411.18203) |
