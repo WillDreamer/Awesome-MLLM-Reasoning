@@ -8,7 +8,7 @@
 ## Recent Advances on MLLM's Reasoning Ability: A Survey
 Recent advancements in multi-modal large language models have achieved notable success in bridging visual and textual understanding. However, when it comes to reasoning in complex scenarios, these models still face significant challenges. For instance, in environments requiring general scene understanding, spatio-temporal reasoning, and robust optical character recognition under variable conditions, their performance often falls short of expectations. 
 
-In this survey, we provide a comprehensive overview of the progress made in multi-modal reasoning in the **recent two years (2024-2025)**, examining both the achievements and the limitations of current approaches. We further outline future research directions aimed at enhancing reasoning capabilities in complex, real-world tasks, including the development of improved model architectures, refined training methodologies, and more robust evaluation frameworks.
+In this survey, we provide a comprehensive overview of the progress made in multi-modal reasoning in the **recent two years (2024-2025)**, examining both the achievements and the limitations of current approaches. We further outline future research directions aimed at enhancing reasoning capabilities in complex, real-world tasks, including the development of improved model architectures, refined training methodologies, and more robust reasoning frameworks.
 
 ---
 
