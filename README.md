@@ -50,6 +50,8 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+
+|![Star](https://img.shields.io/github/stars/ADaM-BJTU/Mind_with_eyes_Awesome_MLLMs_Reasoning.svg?style=social&label=Star) <br> [**Mind with Eyes: from Language Reasoning to Multimodal Reasoning**](https://arxiv.org/html/2503.18071v1) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/ADaM-BJTU/Mind_with_eyes_Awesome_MLLMs_Reasoning) | - |
 |![Star](https://img.shields.io/github/stars/aimagelab/LLaVA-MORE.svg?style=social&label=Star) <br> [**LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning**](https://arxiv.org/pdf/2503.15621) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/aimagelab/LLaVA-MORE) | - |
 |![Star](https://img.shields.io/github/stars/jingyi0000/R1-VL.svg?style=social&label=Star) <br> [**R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**](https://arxiv.org/abs/2503.12937) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/jingyi0000/R1-VL) | - |
 |![Star](https://img.shields.io/github/stars/Fancy-MLLM/R1-onevision.svg?style=social&label=Star) <br> [**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**](https://arxiv.org/pdf/2503.10615) <br>  | Arxiv 2025 | 2025-03 | [Github](https://github.com/Fancy-MLLM/R1-onevision) | [Dataset](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision) |
