@@ -30,6 +30,7 @@ In this survey, we provide a comprehensive overview of the progress made in mult
 
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning**](https://arxiv.org/pdf/2504.03151v1) <br> | Arxiv 2025 | 2025-04 | Survey | - |
 |![Star](https://img.shields.io/github/stars/jmhb0/microvqa.svg?style=social&label=Star) <br> [**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**](https://arxiv.org/pdf/2502.09696) <br> | Arxiv 2025 | 2025-02 | [Github](https://github.com/jmhb0/microvqa) | [Dataset](https://huggingface.co/datasets/jmhb/microvqa)|
 |<br> [**COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence**](https://arxiv.org/pdf/2503.03215) <br> | Arxiv 2025 | 2025-03 | - | - |
 |<br> [**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**](https://arxiv.org/pdf/2503.01378) <br> | Arxiv 2025 | 2025-03 | - | [Datasets](https://huggingface.co/datasets/ArtemLykov/CognitiveDrone_dataset)|
